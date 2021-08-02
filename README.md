@@ -55,6 +55,22 @@ Input image -> Processing + Max Pooling -> (to an number of hidden layers) + Pro
 
 File 1 (code) performs simple classifiation using CNN.
 
+IMPORTANT TERMS
+
+->Dense Networks
+->Sequential Model
+
+For Regression Tasks - The Output has only one neuron (with no activation function)
+For Binary Classification - The output has 1 neuron (with sigmoid activation function)
+For Multiclass classifcation - The output has k-neurons (with softmax activation function)
+
+HOW TO GET TO KNOW HOW MANY NEURONS CAN BE USED IN HIDDEN LAYERS.
+There is no direct rule, but the strategies used are
+1) Trail and Error
+2) Research Papers
+3) Other Already Built Networks
+
+
 # Steganography
 
 

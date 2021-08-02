@@ -53,6 +53,8 @@ Input image -> Processing + Max Pooling -> (to an number of hidden layers) + Pro
 ![image](https://user-images.githubusercontent.com/64018679/127907611-1e701b20-eddb-4ebf-a6ca-5d5a07e461ae.png)
 
 
+File 1 (code) performs simple classifiation using CNN.
+
 # Steganography
 
 

@@ -73,4 +73,25 @@ There is no direct rule, but the strategies used are
 
 # Steganography
 
+Steganography is the practice of concealing a message within another message or a physical object. 
+
+As Previously stated, I have used CNN to train the model.
+
+The Dataset used is Tiny ImageNet Visual Recognition Challenge.
+
+# Working
+
+![image](https://user-images.githubusercontent.com/64018679/128412253-ba7a7324-2712-4e5f-af36-0cf62f467957.png)
+
+# Note - 
+
+Directly writing the code or going through the code is quite difficult, until unless I understand the concept of AutoEncoders. I have attended the webinar organised by edureka on Image cryptograpgy using deep learning. I have taken some refernce of code through webinar.
+
+*Go through the concept and then look for code*
+The concept seems to be easy but its not......
+
+# References -
+
+https://github.com/junaidiqbalsyed/Deep_Steg/blob/main/deep_steganography.ipynb
+
 
